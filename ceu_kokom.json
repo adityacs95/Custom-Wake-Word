@@ -1,0 +1,10 @@
+{
+  "type": "micro_wake_word",
+  "wake_word": "ceu_kokom",
+  "author": "adityacs95",
+  "website": "https://github.com/adityacs95/Custom-Wake-Word",
+  "version": 1,
+  "model": {
+    "path": "https://raw.githubusercontent.com/adityacs95/Custom-Wake-Word/main/ceu_kokom.tflite"
+  }
+}
